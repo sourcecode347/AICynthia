@@ -1,7 +1,7 @@
 # AICynthia
 AI Cynthia is An Artificial Intelligence Coded in Windows 11 and Speaks Greek
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/49WWfwpwYdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=49WWfwpwYdY">Youtube Video Of AICynthia</a>
 
 # License
 
