@@ -34,6 +34,9 @@ os.system("cls")
 print(colored(logo,"blue"))
 global trash
 trash = []
+dir = os.getcwd()+'/trash'
+if os.path.exists(dir)==False:
+    os.system("mkdir trash")
 #############################################################################\
 # RANDOM STRING
 #############################################################################
@@ -548,6 +551,8 @@ while True:
             pass
     try:
         dir = os.getcwd()+'/trash'
+        if os.path.exists(dir)==False:
+            os.system("mkdir trash")
         for f in os.listdir(dir):
             os.remove(os.path.join(dir, f))
     except:
