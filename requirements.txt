@@ -1,0 +1,8 @@
+gtts
+opencv-python
+pygame
+pyaudio
+SpeechRecognition
+termcolor
+colorama
+wikipedia
